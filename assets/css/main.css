@@ -1,0 +1,113 @@
+body{
+    
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgb(177, 176, 176);
+}
+
+form span, form label, th{
+    color: black;
+}
+
+.card {
+
+    background-color: gray;
+}
+
+.collapsible-header {
+
+    background-color:rgb(153, 153, 153);
+}
+
+.card-title {
+
+    color: white;
+    font-weight: bold;
+    font-family: serif;
+    text-align: center;
+
+}
+span {
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+}
+h1 {
+    text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    
+}
+
+
+.form-button{
+    background-color: black;
+    border: 5px double white;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: large;
+    padding: 5px;
+    margin: 3px 4px 0 0;
+    cursor: pointer;
+}
+
+.form-group{
+    margin: 0 0 15px 0; 
+}
+
+.vertical-align{
+    display: inline;
+}
+
+#page-heading {
+
+    text-align: center;
+    font-weight: bold;
+    color: gray;
+    
+}
+
+#reset-btn{
+    color: red;
+}
+
+#reset-btn:hover{
+    background-color: red;
+    color: white;
+
+}
+
+#submit-btn:hover{
+    background-color: green;
+    color: white;
+  
+}
+
+#submit-btn{
+    color: green;
+}
+
+h4 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#tagline {
+
+      text-align: center;
+      color: black;
+      
+}
+
+.material-icons {
+    color: white;
+}
+.bestSellersImg {
+
+    margin: 25px
+
+      }
+#best-sellers-container {
+
+    text-align: center;
+}
