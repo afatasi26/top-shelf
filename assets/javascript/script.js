@@ -46,9 +46,7 @@ $(document).ready(function(){
   
   $.ajax({
   url: queryURL,
-  method: "GET"
-  }).then(function(response) {
-  console.log(response);
+  method: "GET"}).then(function(response) {console.log(response);
   
   var bestsellers = response.results.books
   var count=0; 
