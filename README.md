@@ -9,6 +9,8 @@ you will be presented with the most relevant books to the right along with the n
 
 you can also use recent searches if you have searched before. Also there is a reset button both are working.
 
+Further application is to incorporate movies, actors, and more to make it a one stop fit all for entertainment.
+
 We hope you enjoy our litte application as we did work tirelessly to make sense of it and make it presentable.
 
 Created by
